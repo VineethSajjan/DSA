@@ -1,10 +1,10 @@
 class Test{
-    public static void main(String[] args) {
-        Vineeth d = new A();
-        d.find();
+    public static void main(String[] s) {
+       // Vineeth d = new A();
+       // d.find();
     }
 }
-class Vineeth{
+/*class Vineeth{
     Vineeth(){
         System.out.println("constructor invoked");
     }
@@ -21,4 +21,4 @@ class B extends Vineeth{
     B(){
         System.out.println("B constructor invoked");
     }
-}
+}*/
