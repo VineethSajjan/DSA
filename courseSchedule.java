@@ -60,7 +60,7 @@ No subject can be completed because they depend on each other.
 */
 import java.util.*;
 import java.util.LinkedList;
-class Test{
+class courseSchedule{
     static ArrayList<Integer> v = new ArrayList<>();
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
